@@ -7,7 +7,7 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
 
-  title = 'Customer Managment System';
+  title = 'Customer Managment System (Very Basic CRUD Full Stack App)';
 
   
 }
